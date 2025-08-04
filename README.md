@@ -30,7 +30,7 @@ Test page: [https://the-internet.herokuapp.com/javascript_alerts](https://the-in
 
 ## 🎥 Demo Video
 
-📽️ [Click here to watch the test in action](#) *(Upload your video to YouTube or GitHub and link here)*
+📽️ [https://drive.google.com/file/d/1cjhE7J29menANri9OP79UXc7aDq8ZtCi/view?usp=sharing](#)
 
 ## 🤝 Acknowledgement
 
