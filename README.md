@@ -34,7 +34,7 @@ Test page: [https://the-internet.herokuapp.com/javascript_alerts](https://the-in
 
 ## 🤝 Acknowledgement
 
-Thanks to **IT Training BD** and **Ebrahim Hossain** for their continuous support and teaching.
+Thanks to **IT Training BD**
 
 ## 💬 Feedback
 
